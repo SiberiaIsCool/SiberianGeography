@@ -20,8 +20,8 @@ html {
 body {
 	background-image: ("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/t1T6VvX/drifting-snow-over-winter-altai-road-in-chemal-region-with-snow-covered-mountain-range-on-background-siberia-russia_rcedlel_l_thumbnail-full01.png");
 	//background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  font: 18px/1.4 Century Gothic;
+  color: #ffffff;
 }
 
 .container {
@@ -29,6 +29,12 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+	background: rgba(46, 46, 184, 0.8);
+	border-radius: 25px;
+	padding: 15px;
+	border-bottom: 2px solid white;
+	
+		
 }
 
 h1, h2, h3, h4, h5, h6 {
